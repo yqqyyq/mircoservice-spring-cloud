@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-movie/microservice-consumer-movie.iml" filepath="$PROJECT_DIR$/microservice-consumer-movie/microservice-consumer-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-user-all/microservice-provider-user-all.iml" filepath="$PROJECT_DIR$/microservice-provider-user-all/microservice-provider-user-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-user-all-copy/microservice-provider-user-all-copy.iml" filepath="$PROJECT_DIR$/microservice-provider-user-all-copy/microservice-provider-user-all-copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-spring-cloud.iml" filepath="$PROJECT_DIR$/microservice-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircoservice-discovery-eureka/mircoservice-discovery-eureka.iml" filepath="$PROJECT_DIR$/mircoservice-discovery-eureka/mircoservice-discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircoservice-discovery-eureka-all/mircoservice-discovery-eureka-all.iml" filepath="$PROJECT_DIR$/mircoservice-discovery-eureka-all/mircoservice-discovery-eureka-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mircoservice-discovery-eureka-copy/mircoservice-discovery-eureka-copy.iml" filepath="$PROJECT_DIR$/mircoservice-discovery-eureka-copy/mircoservice-discovery-eureka-copy.iml" />
+    </modules>
+  </component>
+</project>

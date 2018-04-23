@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-consumer-movie" />
+        <module name="microservice-provider-user-all" />
+        <module name="microservice-provider-user-all-copy" />
+        <module name="mircoservice-discovery-eureka" />
+        <module name="mircoservice-discovery-eureka-all" />
+        <module name="mircoservice-discovery-eureka-copy" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservice-consumer-movie" target="1.8" />
+      <module name="microservice-provider-user-all" target="1.8" />
+      <module name="microservice-provider-user-all-copy" target="1.8" />
+      <module name="microservice-spring-cloud" target="1.8" />
+      <module name="mircoservice-discovery-eureka" target="1.8" />
+      <module name="mircoservice-discovery-eureka-all" target="1.8" />
+      <module name="mircoservice-discovery-eureka-copy" target="1.8" />
+      <module name="mircoservice-spring-cloud" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
